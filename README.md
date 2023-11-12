@@ -16,3 +16,6 @@ in this course:
     Metadata: How to add metadata and prepare your application for social sharing.
     and: Middleware.
 
+
+    Email: user@nextmail.com
+    Password: 123456
